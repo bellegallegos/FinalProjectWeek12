@@ -1,0 +1,69 @@
+
+  .title{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    font-family: 'Syncopate', sans-serif;;
+  }
+
+  .form{
+      margin: auto;
+      max-width:400px;
+      text-align: center
+      
+      
+    
+  }
+
+  input[type='submit'], button, [aria-label]{
+    cursor: pointer;
+    font-family: 'Syncopate', sans-serif;;
+  }
+  #edit-box{
+    display: none;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    font-family: 'Syncopate', sans-serif;;
+
+  }
+
+  td{
+      background-color: aliceblue;
+      padding-right: 10px;
+      text-align: left;
+      font-family: 'Syncopate', sans-serif;
+      margin-bottom: 100px;
+   
+      overflow: hidden;
+  }
+
+  .to-do{
+      background: transparent !important;
+      font-family: 'Syncopate', sans-serif;
+      font-size: xx-large;
+  }
+
+#counter
+  {
+    font-family: 'Syncopate', sans-serif;
+  }
+
+  p
+  {
+    font-family: 'Syncopate', sans-serif;
+  }
+
+  ::placeholder
+  {
+    font-family: 'Syncopate', sans-serif;
+    color: lightgray;
+    text-align: center;
+    font-size: small;
+    display: none;
+   
+      overflow: hidden;
+  }
+
+
+  
